@@ -1,0 +1,7 @@
+.logo-container img {
+  transition: filter 0.3s ease;
+}
+
+.logo-container:hover img {
+  filter: brightness(0) invert(1);
+}
