@@ -10,7 +10,6 @@ You can view the live landing page at [https://hoobankapp.deeja.dev/](https://ho
 2. [Technologies Used](#technologies-used)
 3. [Installation](#installation)
 4. [Contact Information](#contact-information)
-5. [License](#license)
 
 ## Features
 - **Responsive Design**: Designed to look great on both mobile and desktop devices.
@@ -58,6 +57,3 @@ For any questions or inquiries, please reach out to me at:
 - **Email**: [tomeldendjaninetara@gmail.com](mailto:tomeldendjaninetara@gmail.com)
 - **LinkedIn**: [linkedin.com/in/dttomelden/](https://www.linkedin.com/in/dttomelden/)
 - **GitHub**: [github.com/deejaneen](https://github.com/deejaneen)
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
